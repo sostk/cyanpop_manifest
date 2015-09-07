@@ -25,7 +25,6 @@ RolanDroid's unofficial cm12.1
 ### To build for your device.. ###
 ```bash
     $ build/envsetup.sh
-    $ breakfast device_name_here
     $ brunch device_name_here
 ```
 
