@@ -4,27 +4,28 @@ RolanDroid's unofficial cm12.1
 ### Installing Repo ###
 ```bash
 # Make a directory where Repo will be stored and add it to the path
-    $mkdir ~/.bin
-    $PATH=~/.bin:$PATH
+    $ mkdir ~/.bin
+    $ PATH=~/.bin:$PATH
 
 # Download Repo itself
-    $curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.bin/repo
+    $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.bin/repo
 
 # Make Repo executable
-    $chmod a+x ~/.bin/repo
+    $ chmod a+x ~/.bin/repo
 ```
 
 ### Initializing Repo ###
 ```bash
-    $ repo init -u git://github.com/RolanDroid/android.git -b cm-12.1
+    $ repo init -u git://github.com/CyanogenMod-Unofficial/platform_manifest.git -b cm-12.1
 ```
 ### For sync: ###
 ```bash
-    $repo sync -j4
+    $ repo sync -j4
 ```
 ### To build for your device.. ###
 ```bash
     $ build/envsetup.sh
     $ brunch device_name_here
 ```
+
 
