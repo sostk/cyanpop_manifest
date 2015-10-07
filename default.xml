@@ -589,4 +589,12 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/cm" name="CyanogenMod-Unofficial/android_vendor_cm" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
+
+<!-- Official Devices -->
+  <project path="device/motorola/thea" name="CyanogenMod-Unofficial/android_device_motorola_thea" />
+  <project path="device/motorola/msm8226-common" name="CyanogenMod-Unofficial/android_device_motorola_msm8226-common" />
+  <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
+  <project path="vendor/motorola" name="CyanogenMod-Unofficial/proprietary_vendor_motorola" />
+  <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 </manifest>
