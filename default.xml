@@ -594,6 +594,7 @@
   <project path="packages/apps/SlimLauncher" name="CyanogenMod-Unofficial/android_packages_apps_SlimLauncher" />
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanogenMod-Unofficial/android_device_motorola_thea" />
+  <project path="device/motorola/titan" name="CyanogenMod-Unofficial/android_device_motorola_titan" />
   <project path="device/motorola/msm8226-common" name="CyanogenMod-Unofficial/android_device_motorola_msm8226-common" />
   <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
   <project path="vendor/motorola" name="CyanogenMod-Unofficial/proprietary_vendor_motorola" />
