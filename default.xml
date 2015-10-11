@@ -592,6 +592,7 @@
   <project path="packages/apps/OmniSwitch" name="CyanogenMod-Unofficial/android_packages_apps_OmniSwitch" />
   <project path="packages/apps/SlimFileManager" name="CyanogenMod-Unofficial/android_packages_apps_SlimFileManager" />
   <project path="packages/apps/SlimLauncher" name="CyanogenMod-Unofficial/android_packages_apps_SlimLauncher" />
+  <project path="packages/apps/KernelAdiutor" name="CyanogenMod-Unofficial/android_packages_apps_KernelAdiutor" />
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanogenMod-Unofficial/android_device_motorola_thea" />
   <project path="device/motorola/titan" name="CyanogenMod-Unofficial/android_device_motorola_titan" />
