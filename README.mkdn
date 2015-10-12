@@ -16,7 +16,7 @@ RolanDroid's unofficial cm12.1
 
 ### Initializing Repo ###
 ```bash
-    $ repo init -u git://github.com/CyanogenMod-Unofficial/platform_manifest.git -b cm-12.1
+    $ repo init -u git://github.com/CyanPop/platform_manifest.git -b cm-12.1
 ```
 ### For sync: ###
 ```bash
