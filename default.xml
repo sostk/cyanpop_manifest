@@ -591,6 +591,7 @@
   <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
   <project path="packages/apps/SlimLauncher" name="CyanPop/packages_apps_SlimLauncher" />
   <project path="packages/apps/KernelAdiutor" name="CyanPop/packages_apps_KernelAdiutor" />
+  <project path="packages/apps/CMFileManager" name="CyanPop/packages_apps_CMFileManager" />
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
   <project path="device/motorola/titan" name="CyanPop/android_device_motorola_titan" />
