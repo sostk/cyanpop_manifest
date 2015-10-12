@@ -18,7 +18,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
+  <project path="build" name="CyanPop/android_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -585,7 +585,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" />
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
-  <project path="vendor/cm" name="CyanogenMod-Unofficial/android_vendor_cm" />
+  <project path="vendor/cm" name="CyanPop/android_vendor_cm" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 <!-- Features -->
   <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
@@ -595,12 +595,9 @@
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
   <project path="device/motorola/titan" name="CyanPop/android_device_motorola_titan" />
-  <project path="device/motorola/surnia" name="CyanPop/android_device_motorola_surnia" />
   <project path="device/motorola/msm8226-common" name="CyanPop/android_device_motorola_msm8226-common" />
   <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
-  <project path="kernel/motorola/msm8916" name="RolanDroid/android_kernel_motorola_msm8916" />
   <project path="vendor/motorola" name="CyanPop/proprietary_vendor_motorola" />
-  <project path="vendor/motorola/surnia" name="CyanPop/proprietary_vendor_motorola_surnia" />
   <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 </manifest>
