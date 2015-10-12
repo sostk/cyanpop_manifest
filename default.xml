@@ -22,7 +22,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="platform_manifest" name="Cyanogenmod-Unofficial/platform_manifest" /> 
+  <project path="platform_manifest" name="CyanPop/platform_manifest" /> 
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
@@ -481,7 +481,6 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
@@ -589,16 +588,18 @@
   <project path="vendor/cm" name="CyanogenMod-Unofficial/android_vendor_cm" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 <!-- Features -->
-  <project path="packages/apps/OmniSwitch" name="CyanogenMod-Unofficial/android_packages_apps_OmniSwitch" />
-  <project path="packages/apps/SlimFileManager" name="CyanogenMod-Unofficial/android_packages_apps_SlimFileManager" />
-  <project path="packages/apps/SlimLauncher" name="CyanogenMod-Unofficial/android_packages_apps_SlimLauncher" />
-  <project path="packages/apps/KernelAdiutor" name="CyanogenMod-Unofficial/android_packages_apps_KernelAdiutor" />
+  <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
+  <project path="packages/apps/SlimLauncher" name="CyanPop/packages_apps_SlimLauncher" />
+  <project path="packages/apps/KernelAdiutor" name="CyanPop/packages_apps_KernelAdiutor" />
 <!-- Official Devices -->
-  <project path="device/motorola/thea" name="CyanogenMod-Unofficial/android_device_motorola_thea" />
-  <project path="device/motorola/titan" name="CyanogenMod-Unofficial/android_device_motorola_titan" />
-  <project path="device/motorola/msm8226-common" name="CyanogenMod-Unofficial/android_device_motorola_msm8226-common" />
+  <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
+  <project path="device/motorola/titan" name="CyanPop/android_device_motorola_titan" />
+  <project path="device/motorola/surnia" name="CyanPop/android_device_motorola_surnia" />
+  <project path="device/motorola/msm8226-common" name="CyanPop/android_device_motorola_msm8226-common" />
   <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
-  <project path="vendor/motorola" name="CyanogenMod-Unofficial/proprietary_vendor_motorola" />
+  <project path="kernel/motorola/msm8916" name="RolanDroid/android_kernel_motorola_msm8916" />
+  <project path="vendor/motorola" name="CyanPop/proprietary_vendor_motorola" />
+  <project path="vendor/motorola/surnia" name="CyanPop/proprietary_vendor_motorola_surnia" />
   <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 </manifest>
