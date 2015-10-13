@@ -1,4 +1,4 @@
-RolanDroid's unofficial cm12.1
+CyanPop 5.1.1 
 ========================
 
 ### Installing Repo ###
