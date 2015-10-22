@@ -590,7 +590,6 @@
 <!-- CyanPop APPS -->
   <project path="packages/apps/SlimLauncher" name="CyanPop/packages_apps_SlimLauncher" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
-  <project path="packages/apps/KernelAdiutor" name="CyanPop/packages_apps_KernelAdiutor" />
   <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" />
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
