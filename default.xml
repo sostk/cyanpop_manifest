@@ -594,9 +594,15 @@
 <!-- Official Devices -->
   <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
   <project path="device/motorola/titan" name="CyanPop/android_device_motorola_titan" />
+  <project path="device/samsung/i9300" name="CyanPop/android_device_samsung_i9300" />
   <project path="device/motorola/msm8226-common" name="CyanPop/android_device_motorola_msm8226-common" />
-  <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
+  <project path="device/samsung/smdk4412-common" name="CyanPop/android_device_samsung_smdk4412-common" />
+  <project path="kernel/motrola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
+  <project path="kernel/samsung/smdk4412" name="RolanDroid/android_kernel_samsung_smdk4412" />
+  <project path="vendor/samsung" name="CyanPop/proprietary_vendor_samsung" />
   <project path="vendor/motorola" name="CyanPop/proprietary_vendor_motorola" />
+  <project path="hardware/samsung"  name="CyanPop/android_hardware_samsung" />
+ 	<project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 </manifest>
