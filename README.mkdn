@@ -1,4 +1,4 @@
-CyanPop 5.1.1 
+CyanPop 6.0.0
 ========================
 
 ### Installing Repo ###
@@ -16,7 +16,10 @@ CyanPop 5.1.1
 
 ### Initializing Repo ###
 ```bash
+### CyanPop sources: ###
     $ repo init -u git://github.com/CyanPop/platform_manifest.git -b cm-13.0
+### Motorola-MSM8226 sources: ###
+    $ curl --create-dirs -L -o .repo/local_manifests/motorola.xml -O -L https://raw.githubusercontent.com/CyanPop/platform_manifest/cm-13.0/motorola.xml
 ```
 ### For sync: ###
 ```bash
