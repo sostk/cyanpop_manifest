@@ -27,7 +27,7 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
-  <project path="bootable/recovery" name="CyanPop/android_bootable_recovery" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
@@ -339,8 +339,8 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
-  <project path="frameworks/av" name="CyanPop/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="CyanPop/android_frameworks_base" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/base" name="CyanogenMod/android_framework-_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
@@ -435,7 +435,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="libcore" name="CyanPop/android_libcore" />
+  <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
@@ -591,18 +591,6 @@
   <project path="packages/apps/SlimLauncher" name="CyanPop/packages_apps_SlimLauncher" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
   <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" />
-<!-- Motorola Devices -->
-  <project path="device/motorola/thea" name="CyanPop/android_device_motorola_thea" />
-  <project path="device/motorola/titan" name="CyanPop/android_device_motorola_titan" />
-  <project path="device/motorola/msm8226-common" name="CyanPop/android_device_motorola_msm8226-common" />
-  <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" />
-  <project path="vendor/motorola" name="CyanPop/proprietary_vendor_motorola" />
-<!-- Samsung Devices -->
-  <project path="device/samsung/i9300" name="CyanPop/android_device_samsung_i9300" />
-  <project path="device/samsung/smdk4412-common" name="CyanPop/android_device_samsung_smdk4412-common" />
-  <project path="kernel/samsung/smdk4412" name="CyanPop/android_kernel_samsung_smdk4412" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode/" />
-  <project path="hardware/samsung" name="CyanPop/android_hardware_samsung/" />
 <!-- General Devices -->
   <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />

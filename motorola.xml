@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/motorola/thea" name="CyanPop-Devices/android_device_motorola_thea" revision="cm-12.1" remote="github" />
+  <project path="device/motorola/titan" name="CyanPop-Devices/android_device_motorola_titan" revision="cm-12.1" remote="github" />
+  <project path="device/motorola/msm8226-common" name="CyanPop-Devices/android_device_motorola_msm8226-common" revision="cm-12.1" remote="github" />
+  <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" revision="cm-12.1" remote="github" />
+  <project path="vendor/motorola" name="CyanPop-Devices/proprietary_vendor_motorola" revision="cm-12.1" remote="github" />
+</manifest>
