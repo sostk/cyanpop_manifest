@@ -547,7 +547,7 @@
 <!-- END AOSP -->
 
 <!-- General Devices -->
-  <project path="hardware/qcom/fm"  name="CyanogenMod/android_hardware_qcom_fm" />
+  <project path="vendor/qcom/opensource/fm"  name="legaCyMod/android_vendor_qcom_opensource_fm" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 <!-- Final -->
 
