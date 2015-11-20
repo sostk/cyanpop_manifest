@@ -26,7 +26,6 @@
   <project path="vendor/cm" name="CyanPop/android_vendor_cyanpop" />
   <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="frameworks/base" name="Cyanpop/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/OTACenter" name="CyanPop/android_packages_apps_OTACenter" />
   <project path="frameworks/opt/telephony" name="CyanPop/android_frameworks_opt_telephony" groups="pdk" />
   <project path="packages/apps/SetupWizard" name="CyanPop/android_packages_apps_SetupWizard" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/android_packages_apps_OmniSwitch" />
