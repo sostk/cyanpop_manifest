@@ -7,6 +7,4 @@
   <project path="device/motorola/msm8226-common" name="CyanPop-Devices/android_device_motorola_msm8226-common" revision="cm-13.0" remote="github" />
   <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" revision="cm-13.0" remote="github" />
   <project path="vendor/motorola" name="CyanPop-Devices/proprietary_vendor_motorola" revision="cm-13.0" remote="github" />
-  <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" revision="cm-13.0" remote="github" />
-  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="cm-13.0" remote="github" />
 </manifest>
