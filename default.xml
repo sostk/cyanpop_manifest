@@ -29,7 +29,7 @@
   <project path="frameworks/opt/telephony" name="CyanPop/android_frameworks_opt_telephony" groups="pdk" />
   <project path="packages/apps/SetupWizard" name="CyanPop/android_packages_apps_SetupWizard" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/android_packages_apps_OmniSwitch" />
-  <project path="packages/apps/OTAUpdates" name="CyanPop/OTAUpdates" />
+  <project path="packages/apps/CyanPopOTA" name="CyanPop/android_packages_apps_CyanPopOTA" />
   <project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" />
 <!-- END CYANPOP -->
 
