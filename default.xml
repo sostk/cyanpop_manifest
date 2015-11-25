@@ -23,7 +23,6 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="platform_manifest" name="CyanPop/platform_manifest" /> 
-  <project path="packages/apps/SlimLauncher" name="CyanPop/android_packages_apps_SlimLauncher" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/packages_apps_OmniSwitch" />
   <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" />
   <project path="packages/apps/Browser" name="CyanPop/android_packages_apps_Browser" />
