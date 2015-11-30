@@ -32,6 +32,7 @@
   <project path="packages/apps/CyanPopOTA" name="CyanPop/android_packages_apps_CyanPopOTA" />
   <project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" />
   <project path="packages/apps/CyanPopWallpapers" name="CyanPop/android_packages_apps_CyanPopWallpapers" />
+  <project path="external/libpng" name="CyanPop/android_external_libpng" groups="pdk" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -93,7 +94,6 @@
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" />
   <project path="external/libnfnetlink" name="CyanogenMod/android_external_libnfnetlink" />
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" />
-  <project path="external/libpng" name="CyanogenMod/android_external_libpng" groups="pdk" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" groups="pdk" />
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" />
   <project path="external/libusb" name="CyanogenMod/android_external_libusb" groups="pdk-cw-fs,pdk-fs" />
