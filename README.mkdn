@@ -31,5 +31,13 @@ CyanPop 6.0.0
     $ brunch device_name_here
 ```
 
+### Credits: ###
+```bash
+    $ CrDroid
+    $ Temasek
+    $ BenzoRom
+    $ @Cl3Kener
+    $ TipsyOs 
+```
 
 
