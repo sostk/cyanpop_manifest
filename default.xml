@@ -10,6 +10,9 @@
            fetch=".."
            review="review.cyanogenmod.org" />
 
+  <remote name="bb"
+           fetch="https://bitbucket.org/" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
@@ -34,6 +37,12 @@
   <project path="packages/apps/CyanPopWallpapers" name="CyanPop/android_packages_apps_CyanPopWallpapers" />
   <project path="external/libpng" name="CyanPop/android_external_libpng" groups="pdk" />
 <!-- END CYANPOP -->
+
+<!-- BEGIN UBERTC -->
+ <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="UBERTC/aarch64-linux-android-4.9" remote="bb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="UBERTC/arm-eabi-4.9" remote="bb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="UBERTC/arm-linux-androideabi-4.9" remote="bb" revision="master" />
+<!-- END UBERTC -->
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
