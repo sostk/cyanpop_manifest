@@ -40,4 +40,9 @@ CyanPop 6.0.0
     $ TipsyOs 
 ```
 
+### You want to maintain a device?: ###
+```bash
+    $ Hangout contact: RolanDroid
+```
+
 
