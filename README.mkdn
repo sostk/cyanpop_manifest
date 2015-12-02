@@ -38,6 +38,7 @@ CyanPop 6.0.0
     $ BenzoRom
     $ @Cl3Kener
     $ TipsyOs 
+    $ @PartimusPrime for his bootanimations
 ```
 
 ### You want to maintain a device?: ###
