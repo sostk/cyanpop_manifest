@@ -36,6 +36,7 @@
   <project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" />
   <project path="packages/apps/CyanPopWallpapers" name="CyanPop/android_packages_apps_CyanPopWallpapers" />
   <project path="external/libpng" name="CyanPop/android_external_libpng" groups="pdk" />
+  <project path="packages/apps/PackageInstaller" name="CyanPop/android_packages_apps_PackageInstaller" groups="pdk-fs" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN UBERTC -->
@@ -260,7 +261,6 @@
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="CyanogenMod/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" />
-  <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" groups="pdk-fs" />
