@@ -1,4 +1,4 @@
-CyanPop 6.0.0
+CyanPop 6.0.1
 ========================
 
 ### Installing Repo ###
@@ -35,11 +35,10 @@ CyanPop 6.0.0
 
 ### Credits: ###
 ```bash
+    $ RolanDroid (Rom Developer)
+    $ CyanogenMod
     $ CrDroid
     $ Temasek
-    $ BenzoRom
-    $ @Cl3Kener
-    $ TipsyOs 
     $ @PartimusPrime for his bootanimations
 ```
 
