@@ -19,9 +19,9 @@ CyanPop 6.0.1
 ### CyanPop sources: ###
     $ repo init -u git://github.com/CyanPop/platform_manifest.git -b cm-13.0
 ### Motorola-MSM8226 sources: ###
-    $ curl --create-dirs -L -o .repo/local_manifests/motorola.xml -O -L https://raw.githubusercontent.com/CyanPop/platform_manifest/devices/cm-13.0/motorola.xml
+    $ curl --create-dirs -L -o .repo/local_manifests/motorola.xml -O -L https://raw.githubusercontent.com/CyanPop/platform_manifest/cm-13.0/devices/motorola.xml
 ### Samsung i9300 sources: ###
-    $ curl --create-dirs -L -o .repo/local_manifests/samsung.xml -O -L https://raw.githubusercontent.com/CyanPop/platform_manifest/devices/cm-13.0/samsung.xml
+    $ curl --create-dirs -L -o .repo/local_manifests/samsung.xml -O -L https://raw.githubusercontent.com/CyanPop/platform_manifest/cm-13.0/devices/samsung.xml
 ```
 ### For sync: ###
 ```bash
