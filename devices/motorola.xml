@@ -9,6 +9,8 @@
   <project path="kernel/motorola/msm8226" name="RolanDroid/android_kernel_motorola_msm8226" revision="cm-13.0" remote="github" />
 <!-- MSM8610 -->
   <project path="device/motorola/condor" name="CyanPop-Devices/android_device_motorola_condor" revision="cm-13.0" remote="github" />
+  <project path="device/motorola/msm8610-common" name="CyanogenMod/android_device_motorola_msm8610-common" revision="cm-13.0" remote="github" />
+
   <project path="kernel/motorola/msm8610" name="CyanogenMod/android_kernel_motorola_msm8610" revision="cm-13.0" remote="github" />
 <!-- COMMON -->
   <project path="vendor/motorola" name="CyanPop-Devices/proprietary_vendor_motorola" revision="cm-13.0" remote="github" />
