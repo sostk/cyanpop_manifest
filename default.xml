@@ -560,6 +560,9 @@
 
 <!-- General Devices -->
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="external/stlport" name="CyanogenMod/android_external_stlport" revision="cm-13.0" remote="github" />
+  <project path="external/bson" name="CyanogenMod/android_external_bson" revision="cm-13.0" remote="github" />
+  <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" revision="cm-13.0" remote="github" />
 <!-- Final -->
 
 </manifest>
