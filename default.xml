@@ -39,18 +39,12 @@
   <project path="packages/apps/PackageInstaller" name="CyanPop/android_packages_apps_PackageInstaller" groups="pdk-fs" />
   <project path="frameworks/av" name="CyanPop/android_frameworks_av" groups="pdk" />
   <project path="external/sepolicy" name="CyanPop/android_external_sepolicy" groups="pdk" />
+  <project path="bionic" name="CyanPop/android_bionic" groups="pdk" />
 <!-- END CYANPOP -->
-
-<!-- BEGIN UBERTC -->
- <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="UBERTC/aarch64-linux-android-4.9" remote="bb" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="UBERTC/arm-eabi-4.9" remote="bb" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="UBERTC/arm-linux-androideabi-4.9" remote="bb" revision="master" />
-<!-- END UBERTC -->
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
-  <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs,pdk-fs" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs,pdk-fs" />
