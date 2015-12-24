@@ -25,8 +25,9 @@ CyanPop 6.0.1
 ```
 ### To build for your device.. ###
 ```bash
-    $ build/envsetup.sh
-    $ brunch device_name_here
+    $ . build/envsetup.sh
+    $ breakfast device_name
+    $ mka bacon 
 ```
 
 ### Device maintainers and developer: ###
