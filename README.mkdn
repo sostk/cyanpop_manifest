@@ -29,18 +29,28 @@ CyanPop 6.0.1
     $ brunch device_name_here
 ```
 
+### Device maintainers and developer: ###
+```bash
+    $ Rom Developer   (RolanDroid)
+    $ Moto G          (RolanDroid)
+    $ Moto G 4G       (RolanDroid)
+    $ Moto G 2014     (RolanDroid) 
+    $ Moto G 2014 LTE (RolanDroid)
+    $ Moto E 2015     (RolanDroid)
+    $ Moto E          (RolanDroid)
+    $ Moto X 2014     (RolanDroid)
+    $ Galaxy S3       (RolanDroid)
+```
+
 ### Credits: ###
 ```bash
     $ RolanDroid (Rom Developer)
     $ CyanogenMod
     $ CrDroid
     $ Temasek
-    $ @PartimusPrime for his bootanimations
+    $ @PartimusPrime (for his bootanimations)
 ```
 
-### You want to maintain a device?: ###
-```bash
-    $ Hangout contact: RolanDroid
-```
+
 
 
