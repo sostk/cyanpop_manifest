@@ -41,6 +41,7 @@
   <project path="external/sepolicy" name="CyanPop/android_external_sepolicy" groups="pdk" />
   <project path="bionic" name="CyanPop/android_bionic" groups="pdk" />
   <project path="packages/services/Telephony" name="CyanPop/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/InCallUI" name="CyanPop/android_packages_apps_InCallUI" groups="pdk-fs" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -250,7 +251,6 @@
   <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" groups="pdk-fs" />
   <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" groups="pdk-fs" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" groups="pdk-fs" />
-  <project path="packages/apps/InCallUI" name="CyanogenMod/android_packages_apps_InCallUI" groups="pdk-fs" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" groups="pdk-fs" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
