@@ -44,6 +44,7 @@
   <project path="packages/apps/InCallUI" name="CyanPop/android_packages_apps_InCallUI" groups="pdk-fs" />
   <project path="vendor/cmsdk" name="CyanPop/cm_platform_sdk" />
   <project path="system/core" name="CyanPop/android_system_core" groups="pdk" />
+  <project path="frameworks/opt/cards" name="CyanPop/frameworks_opt_cards" /> 
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
