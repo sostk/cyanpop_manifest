@@ -25,27 +25,27 @@
   <project path="build" name="CyanPop/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="packages/apps/Browser" name="CyanPop/android_packages_apps_Browser" groups="pdk-fs" />
+  <project path="packages/apps/Browser" name="CyanPop/android_packages_apps_Browser" />
   <project path="vendor/cm" name="CyanPop/android_vendor_cyanpop" />
-  <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="frameworks/base" name="CyanPop/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/telephony" name="CyanPop/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="packages/apps/Settings" name="CyanPop/android_packages_apps_Settings" />
+  <project path="frameworks/base" name="CyanPop/android_frameworks_base" />
+  <project path="frameworks/opt/telephony" name="CyanPop/android_frameworks_opt_telephony" />
   <project path="packages/apps/SetupWizard" name="CyanPop/android_packages_apps_SetupWizard" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/android_packages_apps_OmniSwitch" />
   <project path="packages/apps/CyanPopOTA" name="CyanPop/android_packages_apps_CyanPopOTA" />
   <project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" />
   <project path="packages/apps/CyanPopWallpapers" name="CyanPop/android_packages_apps_CyanPopWallpapers" />
   <project path="external/libpng" name="CyanPop/android_external_libpng" groups="pdk" />
-  <project path="packages/apps/PackageInstaller" name="CyanPop/android_packages_apps_PackageInstaller" groups="pdk-fs" />
+  <project path="packages/apps/PackageInstaller" name="CyanPop/android_packages_apps_PackageInstaller" />
   <project path="frameworks/av" name="CyanPop/android_frameworks_av" groups="pdk" />
   <project path="external/sepolicy" name="CyanPop/android_external_sepolicy" groups="pdk" />
   <project path="bionic" name="CyanPop/android_bionic" groups="pdk" />
-  <project path="packages/services/Telephony" name="CyanPop/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/InCallUI" name="CyanPop/android_packages_apps_InCallUI" groups="pdk-fs" />
+  <project path="packages/services/Telephony" name="CyanPop/android_packages_services_Telephony" />
+  <project path="packages/apps/InCallUI" name="CyanPop/android_packages_apps_InCallUI" />
   <project path="vendor/cmsdk" name="CyanPop/cm_platform_sdk" />
-  <project path="system/core" name="CyanPop/android_system_core" groups="pdk" />
+  <project path="system/core" name="CyanPop/android_system_core" />
   <project path="frameworks/opt/cards" name="CyanPop/frameworks_opt_cards" /> 
-  <project path="frameworks/native" name="CyanPop/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/native" name="CyanPop/android_frameworks_native" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
