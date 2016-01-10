@@ -33,7 +33,7 @@
   <project path="packages/apps/SetupWizard" name="CyanPop/android_packages_apps_SetupWizard" />
   <project path="packages/apps/OmniSwitch" name="CyanPop/android_packages_apps_OmniSwitch" />
   <project path="packages/apps/CyanPopOTA" name="CyanPop/android_packages_apps_CyanPopOTA" />
-  <project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" />
+  <!--project path="packages/apps/Launcher3" name="CyanPop/android_packages_apps_Launcher3" -->
   <project path="packages/apps/CyanPopWallpapers" name="CyanPop/android_packages_apps_CyanPopWallpapers" />
   <project path="external/libpng" name="CyanPop/android_external_libpng" groups="pdk" />
   <project path="packages/apps/PackageInstaller" name="CyanPop/android_packages_apps_PackageInstaller" />
@@ -555,6 +555,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" clone-depth="1" remote="aosp" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
+  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" revision="cm-13.0" />
 <!-- END AOSP -->
 
 <!-- General Devices -->
