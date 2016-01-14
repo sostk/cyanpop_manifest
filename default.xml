@@ -49,6 +49,7 @@
   <project path="art" name="CyanPop/android_art" />
   <project path="external/wpa_supplicant_8" name="CyanPop/android_external_wpa_supplicant_8" />
   <project path="system/bt" name="CyanPop/android_system_bt" />
+  <project path="packages/apps/Bluetooth" name="CyanPop/android_packages_apps_Bluetooth" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -240,7 +241,6 @@
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" groups="pdk-fs" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" groups="pdk-fs" />
