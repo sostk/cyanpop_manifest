@@ -41,7 +41,8 @@ CyanPop 6.0.1
     $ Moto E          (RolanDroid)
     $ Moto X 2014     (RolanDroid)
     $ Galaxy S3       (RolanDroid)
-    $ OnePlusOne      (RolanDroid)
+    $ OnePlus One     (RolanDroid)
+    $ OnePlus X       (RolanDroid)
     $ Google Nexus 5  (RolanDroid)
 ```
 
