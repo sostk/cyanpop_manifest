@@ -50,6 +50,7 @@
   <project path="external/wpa_supplicant_8" name="CyanPop/android_external_wpa_supplicant_8" />
   <project path="system/bt" name="CyanPop/android_system_bt" />
   <project path="packages/apps/Bluetooth" name="CyanPop/android_packages_apps_Bluetooth" />
+  <project path="packages/services/Telecomm" name="CyanPop/android_packages_services_Telecomm" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
@@ -297,7 +298,6 @@
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" groups="pdk-fs" />
   <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" groups="pdk-fs" />
   <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/Telecomm" name="CyanogenMod/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" groups="pdk-fs" />
   <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" groups="pdk-fs" />
   <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" groups="pdk-fs" />
