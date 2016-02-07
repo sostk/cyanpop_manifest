@@ -30,22 +30,6 @@ CyanPop 6.0.1
     $ mka bacon 
 ```
 
-### Device maintainers and developer: ###
-```bash
-    $ Rom Developer   (RolanDroid)
-    $ Moto G          (RolanDroid)
-    $ Moto G 4G       (RolanDroid)
-    $ Moto G 2014     (RolanDroid) 
-    $ Moto G 2014 LTE (RolanDroid)
-    $ Moto E 2015     (RolanDroid)
-    $ Moto E          (RolanDroid)
-    $ Moto X 2014     (RolanDroid)
-    $ Galaxy S3       (RolanDroid)
-    $ OnePlus One     (RolanDroid)
-    $ OnePlus X       (RolanDroid)
-    $ Google Nexus 5  (RolanDroid)
-```
-
 ### Credits: ###
 ```bash
     $ RolanDroid (Rom Developer)
@@ -53,6 +37,7 @@ CyanPop 6.0.1
     $ CrDroid
     $ Temasek
     $ @PartimusPrime (for his bootanimations)
+    $ And to all who helped us with code
 ```
 
 
