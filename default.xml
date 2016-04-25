@@ -57,7 +57,7 @@
   <project path="frameworks/opt/bluetooth" name="CyanPop/android_frameworks_opt_bluetooth" />
   <project path="packages/providers/MediaProvider" name="CyanPop/android_packages_providers_MediaProvider" />
   <project path="packages/apps/ThemeChooser" name="CyanPop/android_packages_apps_ThemeChooser" />
-  <project path="CyanPOP-Tools" name="https://github.com/CyanPop/CyanPOP-Tools" />
+  <project path="CyanPOP-Tools" name="CyanPop/CyanPOP-Tools" />
 <!-- END CYANPOP -->
 
 <!-- BEGIN CYANOGENMOD -->
